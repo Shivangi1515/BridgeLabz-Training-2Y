@@ -23,13 +23,13 @@ public class Question1 {
         
         for(int i=0;i<ages.length;i++){
             if(ages[i]<0){
-                System.out.println("Student"+(i+1)+"entered invalid age");
+                System.out.println("Student"+ (i+1) + " entered invalid age");
             }
             else if(ages[i]>=18){
-                System.out.println("Student"+(i+1)+"can vote");
+                System.out.println("Student"+ (i+1) +" can vote");
             }
             else{
-                System.out.println("Student"+(i+1)+"cannote vote");
+                System.out.println("Student"+ (i+1) +" cannote vote");
             }
 
 
