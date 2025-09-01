@@ -1,1 +1,1 @@
-This is the Repository for Java Fundamentals Practice Problems
+This is the Repository contains the assignments given by the teacher .It has Three branches java fundamentals,core-java and oops.
